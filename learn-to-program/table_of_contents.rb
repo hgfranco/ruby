@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 tbc = 'Table of Contents'
 lineWidth = 70
 

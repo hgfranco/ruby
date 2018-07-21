@@ -1,3 +1,6 @@
+#!/usr/bin/ruby
+
+
 chapter_num = ['Chapter 1', 'Chapter 2', 'Chapter 3']
 chapter_title = ['Numbers', 'Letters', 'Variables']
 chapter_page = ['page 1', 'page 72', 'page 118']
